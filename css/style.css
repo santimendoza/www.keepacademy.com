@@ -778,3 +778,12 @@ Responsive media queries
         text-align: center;
     }
 }
+
+
+/**
+    ESTILOS PROPIOS
+**/
+
+.fea > div {
+    margin-bottom: 40px;
+}
