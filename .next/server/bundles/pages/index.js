@@ -257,12 +257,135 @@ var _jsxFileName = "/Users/cl-0628/Documents/personal/projects/www.keepacademy.c
       fileName: _jsxFileName,
       lineNumber: 10
     }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("meta", {
+    name: "description",
+    content: "Somos tu aliado para impulsar la transformaci\xF3n en tu pr\xE1ctica pedagogica, profundizando en el desarrollo humano y el aprendizaje significativo.",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__components_Header_js__["a" /* default */], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 16
     }
-  }));
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section", {
+    className: "container who",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "who-title",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    }
+  }, "\xBFQue es Keep Academy?"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    }
+  }, "Somos tu aliado para impulsar la transformaci\xF3n en tu pr\xE1ctica pedagogica, profundizando en el desarrollo humano y el aprendizaje significativo. Juntos, queremos lograr:")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "features",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "feature",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
+    "class": "material-icons",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    }
+  }, "account_balance"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h4", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    }
+  }, "Valoraci\xF3n social del docente"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    }
+  }, "Queremos que la comunidad pueda ver el verdadero valor de un docente.")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "feature",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
+    "class": "material-icons",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36
+    }
+  }, "star_rate"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h4", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37
+    }
+  }, "Maestros excelentes para resultados excelentes"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38
+    }
+  }, "\xBFQuieres tener clases extraordinarias? Comienza por ser un profesor extraordinario.")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "feature",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
+    "class": "material-icons",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 44
+    }
+  }, "group"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h4", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 45
+    }
+  }, "Apoyarte dentro y fuera del aula"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 46
+    }
+  }, "Un buen resultado en el aula, depende de una buena preparaci\xF3n fuera de ella.")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "feature",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 51
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
+    "class": "material-icons",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 52
+    }
+  }, "check_circle"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h4", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 53
+    }
+  }, "Sacar la mejor versi\xF3n de ti mismo"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54
+    }
+  }, "Siempre hay una oportunidad para ser mejor. \xA1Alcanza tu m\xE1ximo potencial!")))));
 });
 
 /***/ }),

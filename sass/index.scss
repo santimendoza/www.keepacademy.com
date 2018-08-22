@@ -1,1 +1,24 @@
-
+.who {
+  text-align: center;
+  .who-title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 150px;
+  }
+  .features {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    .feature {
+      width: 50%;
+      padding: 20px 50px;
+      i.material-icons {
+        width: 50px;
+        font-size: 50px;
+      }
+    }
+  }
+}
