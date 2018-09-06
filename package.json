@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "next",
+    "dev": "next --port 9000",
     "build": "next build",
     "start": "next start"
   },
