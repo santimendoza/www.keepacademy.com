@@ -2,6 +2,7 @@ import '../sass/index.scss';
 import Head from 'next/head';
 import Header from '../components/Header';
 import About from '../components/About';
+import EventosList from '../components/EventosList';
 import '../sass/bootstrap/bootstrap.scss';
 
 export default () => (
@@ -22,9 +23,8 @@ export default () => (
     <section className="header">
       <img src="/static/classroom.jpeg" alt="" />
     </section>
-   <About />
-   <footer>
-     Desarrollado por Grupo Impulso
-   </footer>
+    <About />
+    <EventosList />
+    <footer>Desarrollado por Grupo Impulso</footer>
   </div>
 );

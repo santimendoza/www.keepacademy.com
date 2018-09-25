@@ -1,7 +1,7 @@
 import React from 'react';
-import './About.scss';
+import './EventosList.scss';
 
-export default class About extends React.Component {
+export default class EventosList extends React.Component {
   render() {
     return (
       <section id="who" className="who-container">
