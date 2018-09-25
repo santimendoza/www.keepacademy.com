@@ -7,7 +7,7 @@ import '../sass/bootstrap/bootstrap.scss';
 export default () => (
   <div>
     <Head>
-      <title>Keep Academy</title>
+      <title>Eventos de Keep Academy</title>
       <link rel="shortcut icon" href="/static/favicon.ico" />
       <meta
         name="viewport"
@@ -19,12 +19,6 @@ export default () => (
       />
     </Head>
     <Header />
-    <section className="header">
-      <img src="/static/classroom.jpeg" alt="" />
-    </section>
-   <About />
-   <footer>
-     Desarrollado por Grupo Impulso
-   </footer>
+    <p>Texto</p>
   </div>
 );

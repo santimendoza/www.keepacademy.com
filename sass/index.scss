@@ -1,38 +1,10 @@
+$primaryColor: #3841B9;
+
 .header {
   img {
     height: 500px;
     width: 100%;
     object-fit: cover;
     object-position: top;
-  }
-}
-.who {
-  text-align: center;
-  .who-title {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px 150px;
-    @media (max-width: 768px) {
-      padding: 20px 20px;
-    }
-  }
-  .features {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    .feature {
-      width: 50%;
-      padding: 20px 50px;
-      @media (max-width: 768px) {
-        width: 95%;
-      }
-      i.material-icons {
-        width: 50px;
-        font-size: 50px;
-      }
-    }
   }
 }
